@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    font-weight: bold;
+    background-color: rgba(192, 133, 133, 0.5);
+    background-image: url(https://cdn.pixabay.com/photo/2018/03/03/20/02/laptop-3196481_1280.jpg);
+    background-size: 100%;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.content{
+    background-color: aliceblue;
+}
+.profile {
+    display: flex;
+    gap: 20px; 
+    background-color: rgb(210, 228, 228);
+}
+
+h1 {
+    text-align: Center;
+    margin-bottom: 20px;
+}
+h2{
+    text-align: center;
+}
+
+ol {
+    list-style: none;
+    margin-bottom: 20px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
